@@ -48,15 +48,15 @@
 
 | Signal | Current | All time |
 |---|---:|---:|
-| GitHub stars | 517 | n/a |
-| GitHub forks | 95 | n/a |
-| Installer/server downloads | 2,569 | 2,569 |
-| Download delta | +43 | n/a |
-| npm downloads | 102 (last week) | 10,048 |
+| GitHub stars | 524 | n/a |
+| GitHub forks | 98 | n/a |
+| Installer/server downloads | 2,634 | 2,634 |
+| Download delta | +65 | n/a |
+| npm downloads | 405 (last week) | 10,465 |
 | GitHub views, last 14-ish days | unavailable | n/a |
 | GitHub clones, last 14-ish days | unavailable | n/a |
 
-Generated 2026-11-02T11:17:42.637Z. These are public GitHub/npm adoption signals, not active-user or in-app telemetry numbers. All-time values are shown only where the source API provides lifetime coverage. [Full report](docs/public-adoption-stats.md).
+Generated 2026-11-03T10:57:22.114Z. These are public GitHub/npm adoption signals, not active-user or in-app telemetry numbers. All-time values are shown only where the source API provides lifetime coverage. [Full report](docs/public-adoption-stats.md).
 <!-- COWORK_PUBLIC_ADOPTION_STATS_END -->
 
 <p align="center">
